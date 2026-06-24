@@ -41,7 +41,7 @@ export default function Login() {
         }}
       >
         <p style={{ fontFamily: fonts.display, fontSize: 24, fontWeight: 600, margin: "0 0 2px", color: colors.plum }}>
-          Casa Rosa
+          Osadìan
         </p>
         <p style={{ fontSize: 13, color: colors.textSoft, margin: "0 0 26px" }}>
           Ingresa a tu cuenta para continuar
